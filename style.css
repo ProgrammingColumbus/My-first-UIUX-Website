@@ -1,0 +1,26 @@
+body{
+    text-align: center;
+    background-color: black;
+}
+#games{
+    background: linear-gradient(black, red, yellow);
+}
+#apps{
+    background: linear-gradient(yellow, green, blue);
+}
+#chatbot{
+    background: linear-gradient(blue, orange, black);
+}
+h1{
+    font-family:'Gill Sans';
+}
+.line{
+    height: 5px;
+    width: 200;
+    margin: 10px auto;
+    background-color:darkviolet;
+}
+#gamesHeading{
+    color: darkorange;
+    font-family: 'Gill Sans';
+}
